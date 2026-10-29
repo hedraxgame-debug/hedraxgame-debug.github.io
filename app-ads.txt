@@ -2503,3 +2503,10 @@ trustedstack.com, TS677PGY3, RESELLER
 152media.info, 152M491, RESELLER
 adyoulike.com, 721f20f70910d379981dc19ec5da709f, RESELLER
 axonix.com, 59204, RESELLER
+
+# Yandex direct account, added 2026-10-29
+google.com, pub-5533854580432370, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2031, RESELLER
+hyperad.tech, 215, RESELLER
+yandex.com, 333631085, DIRECT
+hyperad.tech, 150, RESELLER
